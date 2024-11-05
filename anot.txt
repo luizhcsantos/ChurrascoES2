@@ -1,0 +1,33 @@
+Anotações para projeto ES2 
+
+Clube de churrasco entre amigos que podem adicionar outras pessoas convidadas 
+Todos os membros incluídos automaticamente 
+Pode adicionar convidados que não participam do grupo
+Pode confirmar que vai ou não 
+
+cada mês um membro permanente é o organizador do churrasco 
+a seleção gira, não é aleatória 
+organizador decide o cardápio 
+
+
+o registro de itens deve ter "checkbox" para determinar o que tem ou não, o preço e a quantidade 
+itens separados em bebidas, carnes, "outros"
+organizador do mês marca se a pessoa pagou 
+caso não tenha sido pago, adiciona uma divida - divida paga no próximo mês - o devedor tem que pagar o atrasado + a parcela daquele mês 
+
+organizador cria o evento e quando termina 
+enviar notificação a todos os membros 
+evento possui nome do organizador, data, local 
+
+
+login: username/apelido + senha 
+
+relatório mensal e anual 
+relatório anual: estilo retrospectiva spotify
+
+cada evento pode ser avaliado num sistema de notas
+notas de 1 à 5 
+
+na retrospectiva anual são exibidos os 3 melhores (e talvez os 3 piores) 
+
+
